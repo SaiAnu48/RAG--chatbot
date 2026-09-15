@@ -1,0 +1,59 @@
+{
+  "started_at": "2026-09-15T06:43:58.740856+00:00",
+  "ended_at": "2026-09-15T06:45:01.095157+00:00",
+  "profile": {
+    "patient_id": "patient-002-mri-after-conservative-therapy",
+    "requested_treatment": "Lumbar Spine MRI",
+    "procedure_codes": [
+      "72148"
+    ],
+    "diagnoses": [
+      "Lumbar radiculopathy",
+      "Low back pain"
+    ],
+    "clinical_facts": {
+      "symptom_duration": "8 weeks",
+      "radicular_symptoms": "persistent right leg radicular pain",
+      "supervised_physical_therapy": "7 continuous weeks completed",
+      "therapy_response": "inadequate relief after supervised PT"
+    },
+    "supporting_documents": [
+      "PT attendance summary showing 7 continuous weeks",
+      "Provider note documenting persistent radicular symptoms"
+    ]
+  },
+  "messages": [
+    {
+      "question": "can you tell me about the patient dicease or diagnosis",
+      "answer": {
+        "answer": "UNVERIFIED_OR_MISSING: Model returned an unsupported citation; no answer was emitted",
+        "citations": []
+      }
+    },
+    {
+      "question": "can i get the insurence for the lumbar spine MRI",
+      "answer": {
+        "answer": "UNVERIFIED_OR_MISSING: Model returned an unsupported citation; no answer was emitted",
+        "citations": []
+      }
+    },
+    {
+      "question": "Does the policy cover cosmetic procedures performed only for appearance improvement?",
+      "answer": {
+        "answer": "No, cosmetic procedures performed solely for appearance enhancement are non-covered under this policy.",
+        "citations": [
+          {
+            "document": "healthcare_prior_authorization_testing_policy.pdf",
+            "section_or_page": "page 4",
+            "relevant_clause": "Cosmetic procedures performed solely for appearance enhancement."
+          },
+          {
+            "document": "healthcare_prior_authorization_testing_policy.pdf",
+            "section_or_page": "page 9",
+            "relevant_clause": "Cosmetic procedures performed solely for appearance enhancement are non-covered."
+          }
+        ]
+      }
+    }
+  ]
+}
