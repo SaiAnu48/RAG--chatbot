@@ -1,0 +1,18 @@
+{
+  "patient_id": "patient-006-biologic-missing-tb-test",
+  "requested_treatment": "Adalimumab",
+  "procedure_codes": ["J0135"],
+  "diagnoses": ["Moderate rheumatoid arthritis", "M06"],
+  "clinical_facts": {
+    "disease_severity": "moderate rheumatoid arthritis",
+    "methotrexate_trial": "15 mg weekly for 16 consecutive weeks",
+    "methotrexate_response": "treatment failure documented",
+    "hepatitis_b_screening": "HBsAg and anti-HBc available",
+    "tb_screening": "not submitted"
+  },
+  "supporting_documents": [
+    "Rheumatology chart note",
+    "Medication history showing methotrexate trial",
+    "Hepatitis B screening lab report"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "patient_id": "patient-010-knee-replacement-active-infection",
+  "requested_treatment": "Total Knee Arthroplasty",
+  "procedure_codes": ["27447"],
+  "diagnoses": ["Kellgren-Lawrence Grade 4 osteoarthritis", "M17.12"],
+  "clinical_facts": {
+    "radiographs": "weight-bearing radiographs show Kellgren-Lawrence Grade 4, dated 4 months ago",
+    "functional_impairment": "severe mobility limitations",
+    "conservative_management": "5 months completed",
+    "physical_therapy": "12 sessions completed",
+    "injection_therapy": "corticosteroid injection completed",
+    "active_infection": "active local knee joint infection documented"
+  },
+  "supporting_documents": [
+    "Weight-bearing knee radiograph report",
+    "Conservative therapy records",
+    "Provider note documenting active local knee joint infection"
+  ]
+}

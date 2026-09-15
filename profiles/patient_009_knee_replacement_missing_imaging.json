@@ -1,0 +1,19 @@
+{
+  "patient_id": "patient-009-knee-replacement-missing-imaging",
+  "requested_treatment": "Total Knee Arthroplasty",
+  "procedure_codes": ["27447"],
+  "diagnoses": ["Severe knee pain", "Osteoarthritis"],
+  "clinical_facts": {
+    "radiographs": "no weight-bearing radiograph report provided",
+    "functional_impairment": "severe knee pain limiting daily activities",
+    "conservative_management": "6 months completed",
+    "physical_therapy": "completed",
+    "medication_therapy": "NSAIDs used",
+    "active_infection": "none documented"
+  },
+  "supporting_documents": [
+    "Provider note documenting severe knee pain",
+    "Physical therapy discharge summary",
+    "Medication history"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "patient-005-adalimumab-full-step-therapy",
+  "requested_treatment": "Adalimumab",
+  "procedure_codes": ["J0135"],
+  "diagnoses": ["Moderate rheumatoid arthritis", "M06"],
+  "clinical_facts": {
+    "disease_severity": "moderate rheumatoid arthritis",
+    "methotrexate_trial": "15 mg weekly for 14 consecutive weeks",
+    "methotrexate_response": "inadequate response",
+    "tb_screening": "negative QuantiFERON-TB test within preceding 12 months",
+    "hepatitis_b_screening": "HBsAg and anti-HBc completed before therapy initiation",
+    "prior_medication_history": "submitted"
+  },
+  "supporting_documents": [
+    "Rheumatology chart note documenting moderate RA",
+    "Medication administration history",
+    "Negative QuantiFERON-TB result",
+    "Hepatitis B screening lab report"
+  ]
+}

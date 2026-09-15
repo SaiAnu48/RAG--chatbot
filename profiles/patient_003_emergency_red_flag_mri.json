@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient-003-emergency-red-flag-mri",
+  "requested_treatment": "Lumbar Spine MRI",
+  "procedure_codes": ["72148"],
+  "diagnoses": ["Suspected cauda equina syndrome"],
+  "clinical_facts": {
+    "symptom_duration": "2 days",
+    "red_flag_pathology": "suspected cauda equina syndrome",
+    "neurologic_findings": "progressive lower extremity weakness",
+    "conservative_therapy": "not attempted due to red-flag presentation"
+  },
+  "supporting_documents": [
+    "Emergency department neurologic exam",
+    "Treating provider urgent imaging request"
+  ]
+}

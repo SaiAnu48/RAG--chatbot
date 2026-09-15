@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient-002-mri-after-conservative-therapy",
+  "requested_treatment": "Lumbar Spine MRI",
+  "procedure_codes": ["72148"],
+  "diagnoses": ["Lumbar radiculopathy", "Low back pain"],
+  "clinical_facts": {
+    "symptom_duration": "8 weeks",
+    "radicular_symptoms": "persistent right leg radicular pain",
+    "supervised_physical_therapy": "7 continuous weeks completed",
+    "therapy_response": "inadequate relief after supervised PT"
+  },
+  "supporting_documents": [
+    "PT attendance summary showing 7 continuous weeks",
+    "Provider note documenting persistent radicular symptoms"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient-007-biologic-insufficient-step-therapy",
+  "requested_treatment": "Adalimumab",
+  "procedure_codes": ["J0135"],
+  "diagnoses": ["Rheumatoid arthritis", "M06"],
+  "clinical_facts": {
+    "methotrexate_trial": "15 mg weekly for 4 weeks",
+    "methotrexate_response": "patient reports it was not helping",
+    "methotrexate_contraindication": "none documented",
+    "methotrexate_intolerance": "none documented",
+    "alternative_csdmard_trial": "not documented"
+  },
+  "supporting_documents": [
+    "Medication fill history showing 4 weeks of methotrexate"
+  ]
+}
