@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient-004-repeat-mri-no-new-deficits",
+  "requested_treatment": "Repeat Lumbar Spine MRI",
+  "procedure_codes": ["72148"],
+  "diagnoses": ["Chronic low back pain"],
+  "clinical_facts": {
+    "prior_lumbar_mri": "completed 3 months ago",
+    "new_focal_neurological_deficits": "none documented",
+    "material_clinical_changes": "none documented",
+    "requested_reason": "repeat imaging"
+  },
+  "supporting_documents": [
+    "Prior MRI report dated 3 months before request",
+    "Current provider note with no new neurologic deficits"
+  ]
+}

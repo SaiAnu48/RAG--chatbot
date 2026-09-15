@@ -1,0 +1,20 @@
+{
+  "patient_id": "patient-008-knee-replacement-fully-qualified",
+  "requested_treatment": "Total Knee Arthroplasty",
+  "procedure_codes": ["27447"],
+  "diagnoses": ["Kellgren-Lawrence Grade 4 osteoarthritis", "M17.11"],
+  "clinical_facts": {
+    "radiographs": "weight-bearing radiographs show Kellgren-Lawrence Grade 4, dated 4 months ago",
+    "functional_impairment": "severe mobility limitations affecting daily activities",
+    "conservative_management": "5 months completed",
+    "physical_therapy": "12 sessions completed",
+    "injection_therapy": "intra-articular corticosteroid injection completed",
+    "active_infection": "none documented"
+  },
+  "supporting_documents": [
+    "Weight-bearing knee radiograph report",
+    "PT attendance log",
+    "Injection procedure note",
+    "Orthopedic surgeon chart note"
+  ]
+}

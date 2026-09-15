@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient-001-acute-back-pain-mri",
+  "requested_treatment": "Lumbar Spine MRI",
+  "procedure_codes": ["72148"],
+  "diagnoses": ["Low back pain"],
+  "clinical_facts": {
+    "symptom_duration": "3 weeks",
+    "neurologic_deficits": "none documented",
+    "malignancy_or_infection": "none documented",
+    "physical_therapy": "not completed",
+    "requested_reason": "acute lower back pain"
+  },
+  "supporting_documents": [
+    "Provider visit note documenting 3 weeks of lower back pain"
+  ]
+}
