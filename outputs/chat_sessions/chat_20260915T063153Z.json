@@ -1,0 +1,48 @@
+{
+  "started_at": "2026-09-15T06:31:53.731735+00:00",
+  "ended_at": "2026-09-15T06:39:53.927607+00:00",
+  "profile": {
+    "patient_id": "patient-002-mri-after-conservative-therapy",
+    "requested_treatment": "Lumbar Spine MRI",
+    "procedure_codes": [
+      "72148"
+    ],
+    "diagnoses": [
+      "Lumbar radiculopathy",
+      "Low back pain"
+    ],
+    "clinical_facts": {
+      "symptom_duration": "8 weeks",
+      "radicular_symptoms": "persistent right leg radicular pain",
+      "supervised_physical_therapy": "7 continuous weeks completed",
+      "therapy_response": "inadequate relief after supervised PT"
+    },
+    "supporting_documents": [
+      "PT attendance summary showing 7 continuous weeks",
+      "Provider note documenting persistent radicular symptoms"
+    ]
+  },
+  "messages": [
+    {
+      "question": "can you tell me about the patient dicease or diagnosis",
+      "answer": {
+        "answer": "UNVERIFIED_OR_MISSING: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}",
+        "citations": []
+      }
+    },
+    {
+      "question": "what is the required treatment on this patient",
+      "answer": {
+        "answer": "UNVERIFIED_OR_MISSING: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}",
+        "citations": []
+      }
+    },
+    {
+      "question": "can i get the insurence for the lumbar spine MRI",
+      "answer": {
+        "answer": "UNVERIFIED_OR_MISSING: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}",
+        "citations": []
+      }
+    }
+  ]
+}
